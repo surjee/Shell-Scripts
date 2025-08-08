@@ -1,0 +1,2 @@
+This Script is for adding root privilages to a user.For this to work switch to root user and run this file using command:-
+./root_permission.sh
